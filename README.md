@@ -1,4 +1,10 @@
-Install this use Commands
-npm install @eslint/js@9.29.0 @hookform/resolvers@5.1.1 @radix-ui/react-dialog@1.1.14 @radix-ui/react-dropdown-menu@2.1.15 @radix-ui/react-label@2.1.7 @radix-ui/react-popover@1.1.14 @radix-ui/react-progress@1.1.7 @radix-ui/react-scroll-area@1.2.9 @radix-ui/react-select@2.2.5 @radix-ui/react-slot@1.2.3 @radix-ui/react-tabs@1.1.12 @radix-ui/react-toast@1.2.14 @radix-ui/react-tooltip@1.2.7 @supabase/supabase-js@2.50.0 @tanstack/react-query@5.80.7 @types/react-dom@19.1.6 @types/react@19.1.8 @vitejs/plugin-react-swc@3.10.2 @vitejs/plugin-react@4.5.2 autoprefixer@10.4.21 class-variance-authority@0.7.1 clsx@2.1.1 cross-env@7.0.3 eslint-plugin-react-hooks@5.2.0 eslint-plugin-react-refresh@0.4.20 eslint@9.29.0 globals@16.2.0 jspdf@3.0.1 lovable-tagger@1.1.8 lucide-react@0.515.0 next-themes@0.4.6 postcss@8.5.6 react-dom@19.1.0 react-hook-form@7.58.0 react-hot-toast@2.5.2 react-router-dom@7.6.2 react@19.1.0 sonner@2.0.5 tailwind-merge@3.3.1 tailwind-variants@1.0.0 tailwindcss-animate@1.0.7 tailwindcss@3.4.17 typescript-eslint@8.34.1 typescript@5.8.3 vite@6.3.5 zod@3.25.64 --legacy-peer-deps
+To install dependencies:
+
+
+npm install @eslint/js@9.29.0 @hookform/resolvers@5.1.1 @radix-ui/react-dialog@1.1.14 @radix-ui/react-dropdown-menu@2.1.15 @radix-ui/react-label@2.1.7 @radix-ui/react-popover@1.1.14 @radix-ui/react-progress@1.1.7 @radix-ui/react-scroll-area@1.2.9 @radix-ui/react-select@2.2.5 @radix-ui/react-slot@1.2.3 @radix-ui/react-tabs@1.1.12 @radix-ui/react-toast@1.2.14 @radix-ui/react-tooltip@1.2.7 @supabase/supabase-js@2.50.0 @tanstack/react-query@5.80.7 @types/react-dom@19.1.6 @types/react@19.1.8 @vitejs/plugin-react-swc@3.10.2 @vitejs/plugin-react@4.5.2 autoprefixer@10.4.21 class-variance-authority@0.7.1 clsx@2.1.1 cross-env@7.0.3 eslint-plugin-react-hooks@5.2.0 eslint-plugin-react-refresh@0.4.20 eslint@9.29.0 globals@16.2.0 jspdf@3.0.1 lovable-tagger@1.1.8 lucide-react@0.515.0 next-themes@0.4.6 postcss@8.5.6 react-dom@19.1.0 react-hook-form@7.58.0 react-hot-toast@2.5.2 react-router-dom@7.6.2 react@19.1.0 sonner@2.0.5 
+tailwind-merge@3.3.1 tailwind-variants@1.0.0 tailwindcss-animate@1.0.7 tailwindcss@3.4.17 typescript-eslint@8.34.1 typescript@5.8.3 vite@6.3.5 zod@3.25.64 --legacy-peer-deps
+
 cd "Upcube-main"
+
 bun run dev
+
